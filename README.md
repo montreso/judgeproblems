@@ -1,15 +1,14 @@
-# judgeproblems
+# Problemi di allenamento
 
-
-In this repositories, we collect links to problems and solutions categorized by level of difficulty, type of algorithms to be used, type of technique to be used, etc.
+Questo repository vuole fornire un elenco ragionato di problemi, accompagnati, dove possibile, dalle loro soluzioni. Al momento è in fase embrionale, ma l'obiettivo sarebbe categorizzare i problemi in base alla difficoltà, al tipo di tecnica da utilizzare per risolverli, agli algoritmi che sono richiesti per la loro soluzione, etc.
 
 
 ## If-Then-Else
 
-The problems listed below can be solved using just if-then-else constructs
+I problemi elencati in questa lista sono estramente semplici; possono essere risolti utilizzando strutture dati elementari e il costrutto if-then-else.
 
-| Problem | Description | Python |
-| --- | --- | --- |
-| [Aaah!](https://open.kattis.com/problems/aaah) | Takes in input two strings, has to identify which one is the longer | [aaah.py](https://github.com/montreso/judgeproblems/blob/master/solutions/if-then-else/aaah.py)
-| [ABC](https://open.kattis.com/problems/abc) | Print three numbers in the desired order | 
-  
+| Problem | Site | Description | Python |
+| --- | --- | --- | --- |
+| [Aaah!](https://open.kattis.com/problems/aaah) | Kattis | Prende due stringhe in input, bisogna confrontarle | [aaah.py](https://github.com/montreso/judgeproblems/blob/master/solutions/if-then-else/aaah.py)
+| [ABC](https://open.kattis.com/problems/abc) | Kattis | Stampa tree numeri nell'ordine desiderato | 
+
